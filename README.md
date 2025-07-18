@@ -9,7 +9,7 @@ Displays the current number of records in the Employee Database.
 ### Case 2: Load Data From File  
 - Prompts the user to enter a file to read data from.  
 - Validates each record:
-  - Ensures hired date is not before birth date.
+- Ensures hired date is not before birth date.
 - Invalid entries are skipped with a notification.
 - Displays how many valid records were stored.
 
